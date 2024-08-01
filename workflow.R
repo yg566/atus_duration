@@ -4,7 +4,10 @@ library(stringr)
 
 
 
-atuscps_2022 <- read.csv("~/chds/atus_duration/atusact_2023.dat")
+# atuscps_2022 <- read.csv("~/chds/atus_duration/atusact_2023.dat")
+
+# cps file is too large to upload to github, you can download from
+# https://www.bls.gov/tus/data/datafiles-2023.htm 
 
 atusresp_2022 <- read.csv("~/chds/atus_duration/atusresp_2023.dat")
 
